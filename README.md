@@ -3,23 +3,13 @@
 </div>  
   
 
-### <div align="center">Я Геннадій, розробник-початківець 👨‍💻опановую професію Fullstack-розробника 🚀!</div>  
+### <div align="center">Hi,I am Hennadii, a beginner developer 👨‍💻 mastering the profession of a Fullstack developer 🚀!</div>  
   
+Зараз я суміщую службу в ЗСУ та навчання в
+- Now I serve in the ranks of the Armed Forces and study at GoIT https://goit.global/ua/courses/fullstack/  
 
-- 🔭Зараз я суміщую службу в ЗСУ та навчання в GoIT https://goit.global/ua/courses/fullstack/  
-  
-
-- 🌱  
-  
-
-- ❓  
-  
-
-- ⚡   
-  
-
+ 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -44,15 +34,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
